@@ -9,7 +9,7 @@ This project demonstrates how language models and avatar synthesis APIs can come
 
 ## 🚀 Live Demo
 
-Try it out: [Launch EduAvatar](https://your-demo-url.com)
+Try it out: [Launch EduAvatar]((https://edu-avatar.streamlit.app/))
 
 ---
 
